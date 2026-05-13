@@ -1,6 +1,5 @@
 # Getting Started with the React Splitter Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to integrate and configure the Syncfusion React Splitter component in a React application.
 
 A quick‑start project that helps you create and configure the Syncfusion React Splitter component. This project includes example code to configure core features such as resizing, collapsing, and expanding panes, as well as rendering nested split panes within a React layout.
